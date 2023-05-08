@@ -1,4 +1,4 @@
-## ST4248 TERM PAPER 
+
 
 ## Video Games Sales
 sales <- read.csv("~/Downloads/Video_Game_Sales_as_of_Jan_2017.csv")  
